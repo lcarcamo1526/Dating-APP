@@ -58,16 +58,14 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [ASP.NET](* [Bootstrap](https://rometools.github.io/rome/) 
-* [C#](* [Bootstrap](https://rometools.github.io/rome/) 
+* [ASP.NET](https://rometools.github.io/rome/) 
+* [C#](https://rometools.github.io/rome/) 
 * [Angular](https://angular.io/) 
 * [SQLlite](https://sqlite.org/index.html) 
 * [Bootstrap](https://getbootstrap.com/) 
 
 
 ## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
