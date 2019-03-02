@@ -1,6 +1,6 @@
 # Dating-web-app
 
-One Paragraph of project description goes here
+.NET Core web APP usign ASP,C#, SQLlite, and Angular Framework
 
 ## Getting Started
 
@@ -8,12 +8,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-Give examples
+Node.js
+.NET core
+Git
+npm
+Mono
 ```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
